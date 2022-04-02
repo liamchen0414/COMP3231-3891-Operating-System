@@ -1,0 +1,6 @@
+write(1, "Attempting to write 45 bytes\n", 29) = 29
+write(3, "The quick brown fox jumps over t"..., 45) = 45
+write(1, "Wrote 45 bytes\n", 15)        = 15
++++ exited with 0 +++
+
+https://opensource.com/article/19/10/strace
